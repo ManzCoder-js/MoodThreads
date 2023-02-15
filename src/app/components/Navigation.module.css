@@ -1,0 +1,14 @@
+.header {
+    border-radius: 4px;
+    padding: 4px;
+}
+
+.navigation {
+    display: flex;
+    list-style: none;
+    gap: 36px;
+}
+.navigation a:hover {
+    color: #f0f0f0;
+    text-decoration: underline;
+}
